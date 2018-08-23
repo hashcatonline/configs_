@@ -23,6 +23,7 @@ TODO: Verify each rule contains : as "no rule" cmds have been removed.
       Trim duplicate rule lists per line.
       Calculate time each cmd would take to finish, redistribute workload accordingly still based on difficulty.
       Update -a3 with top common masks.
+      Clean backend file structure
 
       Fix configs to reflect changes in command config.
       Get sourcecode for monitoring service.
