@@ -2,11 +2,11 @@ Notes:
 
   -a 0 :  878, 274 cleaned #This can still be trimmed.
   -a 1 :   69,  68 cleaned
-  -a 3 :  120,  58 cleaned
+  -a 3 :  120, 105 cleaned
   -a 6 :  149, 149 cleaned
   -a 7 :  106, 106 cleaned
   ------------------------
-  Total: 1322, 665 cleaned
+  Total: 1322, xxx cleaned
 
 Need GPU stats for each rig and total hashrate benchmark.
 
@@ -20,9 +20,9 @@ Rig3 -a 3,6 207 cmds #May take a long time to complete as keyspace exponentially
 
 
 TODO: Verify each rule contains : as "no rule" cmds have been removed.
-      Trim duplicate rule lists per line.
+      Done --> Trim duplicate rule lists per line.
       Calculate time each cmd would take to finish, redistribute workload accordingly still based on difficulty.
-      Update -a3 with top common masks.
+      Done --> Update -a3 with top common masks.
       Clean backend file structure
 
       Fix configs to reflect changes in command config.
