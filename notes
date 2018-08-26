@@ -1,12 +1,12 @@
 Notes:
 
-  -a 0 :  878, 274 cleaned #This can still be trimmed.
+  -a 0 :  878, 216 cleaned #This can still be trimmed.
   -a 1 :   69,  68 cleaned
-  -a 3 :  120, 105 cleaned
-  -a 6 :  149, 149 cleaned
-  -a 7 :  106, 106 cleaned
+  -a 3 :  120,   0 cleaned
+  -a 6 :  149,   0 cleaned
+  -a 7 :  106,   0 cleaned
   ------------------------
-  Total: 1322, xxx cleaned
+  Total: 1322, 284 cleaned
 
 Need GPU stats for each rig and total hashrate benchmark.
 
