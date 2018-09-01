@@ -1,0 +1,2 @@
+Use top 75 masks then wordlists=1
+Use wordlists + rules=27

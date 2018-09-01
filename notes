@@ -1,0 +1,38 @@
+Notes:
+
+  -a 0 :  878, 216 cleaned #This can still be trimmed.
+  -a 1 :   69,  68 cleaned
+  -a 3 :  120,   0 cleaned
+  -a 6 :  149,   0 cleaned
+  -a 7 :  106,   0 cleaned
+  ------------------------
+  Total: 1322, 284 cleaned
+
+Need GPU stats for each rig and total hashrate benchmark.
+
+GPUFARM3 = 5 X 1060
+GPUFARM4= 4 X 1080TI
+GPUFARM5 =  1 x 1060 + 2 x 1050ti + 2 x rx460
+
+Rig4 -a 0,  274 cmds #With so many rules, this may need to be split up due to backing up.
+Rig5 -a 1,7 174 cmds #Run on weakest rig a 1,7 are fairly quick attacks.
+Rig3 -a 3,6 207 cmds #May take a long time to complete as keyspace exponentially increase with each increment.
+
+
+TODO: Verify each rule contains : as "no rule" cmds have been removed.
+      Done --> Trim duplicate rule lists per line.
+      Calculate time each cmd would take to finish, redistribute workload accordingly still based on difficulty.
+      Done --> Update -a3 with top common masks.
+      Clean backend file structure
+
+      Fix configs to reflect changes in command config.
+      Get sourcecode for monitoring service.
+      Learn C#
+
+Changelog so far:
+
+Sorted all commands
+removed duplicate attacks
+redistributed commands to rigs based on attack type.
+added rule debugging to all -a0 commands
+removed -a0 commands that weren't using rules.
