@@ -29,6 +29,8 @@ TODO: Verify each rule contains : as "no rule" cmds have been removed.
       Get sourcecode for monitoring service.
       Learn C#
 
+      add hcmask attack to end of each command config as catchall incase there isn't enough work to do for the time paid for.
+
 Changelog so far:
 
 Sorted all commands
