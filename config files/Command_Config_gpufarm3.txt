@@ -149,3 +149,4 @@ C:\cracking\hashcat-3.6.0\hashcat64.exe -m index -a 3 --status --username --forc
 C:\cracking\hashcat-3.6.0\hashcat64.exe -m index -a 3 --status --username --force --gpu-temp-disable --remove -O -w 3 -o C:\cracking\hashcat-3.6.0\found\found.txt C:\cracking\hashcat-3.6.0\hashes\hash.txt ?l?l?l?l?l?d?l?d
 C:\cracking\hashcat-3.6.0\hashcat64.exe -m index -a 3 --status --username --force --gpu-temp-disable --remove -O -w 3 -o C:\cracking\hashcat-3.6.0\found\found.txt C:\cracking\hashcat-3.6.0\hashes\hash.txt ?l?d?d?l?l?l?l?l
 C:\cracking\hashcat-3.6.0\hashcat64.exe -m index -a 3 --status --username --force --gpu-temp-disable --remove -O -w 3 -o C:\cracking\hashcat-3.6.0\found\found.txt C:\cracking\hashcat-3.6.0\hashes\hash.txt ?l?l?l?l?d?l?l?d
+C:\cracking\hashcat-3.6.0\hashcat64.exe -m index -a 3 --status --username --force --gpu-temp-disable --remove -O -w 3 -o C:\cracking\hashcat-3.6.0\found\found.txt C:\cracking\hashcat-3.6.0\hashes\hash.txt ?l?l?l?l?d?l?l?d
