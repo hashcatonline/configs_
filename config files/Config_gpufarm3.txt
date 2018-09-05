@@ -10,5 +10,6 @@
 10=1
 11=1
 12=1
+
 Try Starting at Wordlists (*RECOMMENDED)=37
 Try Starting at Wordlists +OneRuleToRuleThemAll=37
